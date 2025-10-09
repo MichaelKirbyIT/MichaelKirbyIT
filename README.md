@@ -3,10 +3,8 @@
 <h2>📄 Certifications: </h2>
 
 <p>
-  <a href="https://coursera.org/share/75557ac42165994db466e49b29cbb2ad">
     <img src="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="Badge 1" width="200" />
   </a>
-    <a href="https://www.credly.com/badges/cd795639-cb9f-47bc-a9dd-c5a0d52b83ff">
     <img src="https://images.credly.com/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" alt="Badge 2" width="200" />
   </a>
 </p>
