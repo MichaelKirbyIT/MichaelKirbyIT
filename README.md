@@ -14,6 +14,7 @@
 <h2>🖥️ IT Projects</h2>
 
   - [CISCO Packet Tracer - Create a Simple Network](https://github.com/MichaelKirbyIT/CiscoPacketTracerCreateASimpleNetworkLab.git)
+  - [CISCO Packet Tracer - Logical and Physical Mode Exploration](https://github.com/MichaelKirbyIT/CiscoPacketTracerLogicalAndPhysicalMode.git)
 
 <h2> 🤳 Connect with me:</h2>
 
