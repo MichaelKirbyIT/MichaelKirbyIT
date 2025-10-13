@@ -13,7 +13,7 @@
 
 <h2>🖥️ IT Projects</h2>
 
-  - [CISCO Packet Tracer - Create a Simple Network](https://github.com/MichaelKirbyIT/CiscoPacketTracerLab.git)
+  - [CISCO Packet Tracer - Create a Simple Network](https://github.com/MichaelKirbyIT/CiscoPacketTracerCreateASimpleNetworkLab.git)
 
 <h2> 🤳 Connect with me:</h2>
 
