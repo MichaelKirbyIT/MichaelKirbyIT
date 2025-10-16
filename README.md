@@ -15,7 +15,7 @@
 
   - [CISCO Packet Tracer - Create a Simple Network](https://github.com/MichaelKirbyIT/CiscoPacketTracerCreateASimpleNetworkLab.git)
   - [CISCO Packet Tracer - Logical and Physical Mode Exploration](https://github.com/MichaelKirbyIT/CiscoPacketTracerLogicalAndPhysicalMode.git)
-  - [Regular Disk Sanitization Project](https://github.com/MichaelKirbyIT/DiskSanitizationProject.git)
+  - [Disk Sanitization & Reformat](https://github.com/MichaelKirbyIT/DiskSanitizationProject.git)
 
 <h2> 🤳 Connect with me:</h2>
 
