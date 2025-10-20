@@ -11,6 +11,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+  - [File Permissions in Linux](https://github.com/MichaelKirbyIT/FilePermissionsInLinux.git)
+
 <h2>🖥️ IT Projects</h2>
 
   - [CISCO Packet Tracer - Create a Simple Network](https://github.com/MichaelKirbyIT/CiscoPacketTracerCreateASimpleNetworkLab.git)
