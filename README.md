@@ -12,6 +12,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [File Permissions in Linux](https://github.com/MichaelKirbyIT/FilePermissionsInLinux.git)
+  - [Verify checksums using PowerShell Script](https://github.com/MichaelKirbyIT/VerifyChecksumsUsingPowerShellScript.git)
   - [Verify checksums using sha256 algorithm](https://github.com/MichaelKirbyIT/VerifyChecksumsWithCmdSha256.git)
 
 <h2>🖥️ IT Projects</h2>
