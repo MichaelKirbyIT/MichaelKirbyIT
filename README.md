@@ -13,6 +13,7 @@
 
   - [Linux hashed password crack with Kali & John the Ripper](https://github.com/MichaelKirbyIT/PasswordCrackingWithKaliLinuxJtR.git)
   - [File Permissions in Linux](https://github.com/MichaelKirbyIT/FilePermissionsInLinux.git)
+  - [SSH Public Key Authentication](https://github.com/MichaelKirbyIT/SSHPublicKeyAuthenticationLab.git)
   - [Verify checksums using PowerShell Script](https://github.com/MichaelKirbyIT/VerifyChecksumsUsingPowerShellScript.git)
   - [Verify checksums using Files and CLI](https://github.com/MichaelKirbyIT/VerifyChecksumsWithCmdSha256.git)
 
