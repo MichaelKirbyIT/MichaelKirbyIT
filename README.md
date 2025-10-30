@@ -16,7 +16,7 @@
   - [SSH Public Key Authentication](https://github.com/MichaelKirbyIT/SSHPublicKeyAuthenticationLab.git)
   - [Verify checksums using PowerShell Script](https://github.com/MichaelKirbyIT/VerifyChecksumsUsingPowerShellScript.git)
   - [Verify checksums using Files and CLI](https://github.com/MichaelKirbyIT/VerifyChecksumsWithCmdSha256.git)
-  - [Disk Sanitization (zeroing) using Linux dd](https://github.com/MichaelKirbyIT/WipingDisksUsingddCommand.git)
+  - [Disk Sanitization (zeroing) using Linux dd command](https://github.com/MichaelKirbyIT/WipingDisksUsingddCommand.git)
 
 <h2>🖥️ IT Projects</h2>
 
