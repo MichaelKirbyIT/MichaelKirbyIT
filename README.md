@@ -13,7 +13,6 @@
 
   - [Linux hashed password crack with Kali & John the Ripper](https://github.com/MichaelKirbyIT/PasswordCrackingWithKaliLinuxJtR.git)
   - [File Permissions in Linux](https://github.com/MichaelKirbyIT/FilePermissionsInLinux.git)
-  - [Using PuTTy on Windows to execute commands on a Linux System](https://github.com/MichaelKirbyIT/CreateALinuxUserAndGroupWithPuttyOnWindows.git)
   - [SSH Public Key Authentication](https://github.com/MichaelKirbyIT/SSHPublicKeyAuthenticationLab.git)
   - [Verify checksums using PowerShell Script](https://github.com/MichaelKirbyIT/VerifyChecksumsUsingPowerShellScript.git)
   - [Verify checksums using Files and CLI](https://github.com/MichaelKirbyIT/VerifyChecksumsWithCmdSha256.git)
@@ -21,6 +20,8 @@
 
 <h2>🖥️ IT Projects</h2>
 
+  - [Using PuTTy on Windows to execute commands on a Linux System](https://github.com/MichaelKirbyIT/CreateALinuxUserAndGroupWithPuttyOnWindows.git)
+  - [Creating a Bash shell script and changing permissions to executable](https://github.com/MichaelKirbyIT/CreatingLinuxShellScriptAndSetAsExecutable.git)
   - [CISCO Packet Tracer - Create a Simple Network](https://github.com/MichaelKirbyIT/CiscoPacketTracerCreateASimpleNetworkLab.git)
   - [CISCO Packet Tracer - Logical and Physical Mode Exploration](https://github.com/MichaelKirbyIT/CiscoPacketTracerLogicalAndPhysicalMode.git)
   - [Disk Sanitization & Reformat](https://github.com/MichaelKirbyIT/DiskSanitizationProject.git)
