@@ -1,22 +1,20 @@
-<h1>Hi, I'm Michael! <br/><a href="https://github.com/MichaelKirbyIT">IT Specialist</a>, <a href="https://www.linkedin.com/in/wmkirby/">Cybersecurity Professional</a></h1>
+# <a href="https://www.linkedin.com/in/wmkirby/">Michael Kirby's</a> IT and Cybersecurity Project Portfolio 🔐
 
-<h2>📄 Certifications: </h2>
+## 📄 Certifications
 
 <p>
-    <img src="https://images.credly.com/size/340x340/images/ba1b8072-8ebe-432c-88e5-05bc809c624a/CompTIA_CSAP.png" alt="CSAP" width="200" />
-  </a>
-        <img src="https://images.credly.com/size/340x340/images/dcd99b5b-da24-40a6-9364-62126d590c37/blob" alt="CySA+" width="200" />
-  </a>
-    <img src="https://images.credly.com/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" alt="sec+" width="200" />
-  </a>
-    <img src="https://images.credly.com/size/340x340/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob" alt="Net+" width="200" />
-  </a>
-    <img src="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="google" width="200" />
-  </a>
-
+    <img src="https://images.credly.com/size/340x340/images/ba1b8072-8ebe-432c-88e5-05bc809c624a/CompTIA_CSAP.png" alt="CSAP" width="150" />
+        <img src="https://images.credly.com/size/340x340/images/dcd99b5b-da24-40a6-9364-62126d590c37/blob" alt="CySA+" width="150" />
+    <img src="https://images.credly.com/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" alt="sec+" width="150" />
+    <img src="https://images.credly.com/size/340x340/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob" alt="Net+" width="150" />
+    <img src="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="google" width="150" />
 </p>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+## ⚠️ Vulnerability Management Projects
+
+## 🚨 Threat Hunting and Security Operations
+
+## 👨‍💻 Cybersecurity Projects
 
   - [Linux hashed password crack with Kali & John the Ripper](https://github.com/MichaelKirbyIT/PasswordCrackingWithKaliLinuxJtR.git)
   - [File Permissions in Linux](https://github.com/MichaelKirbyIT/FilePermissionsInLinux.git)
@@ -40,6 +38,11 @@
 
 [linkedin]: https://www.linkedin.com/in/wmkirby/
 [github]: https://github.com/MichaelKirbyIT/MichaelKirbyIT
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wmkirby/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MichaelKirbyIT)
+
 
 <!--
 **MichaelKirbyIT/MichaelKirbyIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
