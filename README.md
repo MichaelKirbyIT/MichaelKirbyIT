@@ -33,13 +33,6 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="MichaelKirby | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="MichaelKirby | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-
-[linkedin]: https://www.linkedin.com/in/wmkirby/
-[github]: https://github.com/MichaelKirbyIT/MichaelKirbyIT
-
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wmkirby/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MichaelKirbyIT)
 
