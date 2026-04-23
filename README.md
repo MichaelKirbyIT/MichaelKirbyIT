@@ -11,9 +11,12 @@
 </p>
 
 ## ⚠️ Vulnerability Management Projects
+- **[Vulnerability Management Program Implementation]()**
+- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)]()**
 
 ## 🚨 Threat Hunting and Security Operations
-
+- **[Threat Hunting Scenario (Tor Browser Usage)]()**
+  
 ## 👨‍💻 Cybersecurity Projects
 
   - [Linux hashed password crack with Kali & John the Ripper](https://github.com/MichaelKirbyIT/PasswordCrackingWithKaliLinuxJtR.git)
