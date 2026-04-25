@@ -12,7 +12,7 @@
 
 ## ⚠️ Vulnerability Management Projects
 - **[Vulnerability Management Program Implementation](https://github.com/MichaelKirbyIT/VulnerabilityManagementProgram)**
-- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)]()**
+- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/MichaelKirbyIT/ProgrammaticVulnerabilityRemediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 - **[Threat Hunting Scenario (Tor Browser Usage)]()**
