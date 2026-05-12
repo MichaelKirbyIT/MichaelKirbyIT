@@ -30,6 +30,7 @@
 
   <rect width="680" height="240" fill="#02050E"/>
 
+<!--Raining Binary-->
   <g font-family="monospace" font-size="10" fill="url(#rainFade)">
     
     <text x="20" y="-100">
@@ -103,19 +104,6 @@
   </g>
 </svg>
 
-
-  <!-- background
-  <rect width="680" height="240" fill="url(#bggrad)" rx="10"/>
-
-  Grid Background
-  <g opacity="0.1" stroke="#00D4FF" stroke-width="0.5">
-    <path d="M0 40h680M0 80h680M0 120h680M0 160h680M0 200h680"/>
-    <path d="M40 0v240M80 0v240M120 0v240M160 0v240M200 0v240M240 0v240M280 0v240M320 0v240M360 0v240M400 0v240M440 0v240M480 0v240M520 0v240M560 0v240M600 0v240M640 0v240"/>
-  </g> -->
-
-
-
-
   <!-- Terminal Style Borders -->
   <text x="20" y="25" font-family="monospace" font-size="10" fill="#00D4FF" opacity="0.6">[ SYSTEM_ACCESS: STABLE ]</text>
   <text x="540" y="25" font-family="monospace" font-size="10" fill="#00D4FF" opacity="0.6">LOC: GREATER_CHI</text>
@@ -131,12 +119,6 @@
     SEC+ | NET+ | CySA+ | CSAP
   </text>
 
-  <!-- Animated Terminal Cursor
-  <rect x="525" y="138" width="10" height="2" fill="#00D4FF">
-    <animate attributeName="opacity" values="0;1;0" dur="1s" repeatCount="indefinite"/>
-  </rect>
- -->
-
   <!-- Bottom Left CLI -->
   <text x="20" y="225" font-family="monospace" font-size="10" fill="#00D4FF" opacity="0.6">root@m-kirby:~$ tail -f /var/log/security</text>
 
@@ -150,7 +132,6 @@
     &gt; status: monitoring_logs_
     <animate attributeName="opacity" values="0;1;0" dur="1s" repeatCount="indefinite" />
   </text>
-
 
 <rect width="680" height="60" fill="url(#laserScan)">
     <animate 
@@ -169,7 +150,4 @@
       keyTimes="0; 0.45; 0.5; 0.55; 0.95; 1"
       repeatCount="indefinite"/>
   </rect>
-
-
-
 </svg>
