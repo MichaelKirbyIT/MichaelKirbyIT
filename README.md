@@ -1,3 +1,5 @@
+![Michael Kirby Banner](banner.svg)
+
 # <a href="https://www.linkedin.com/in/wmkirby/">Michael Kirby's</a> IT and Cybersecurity Project Portfolio 🔐
 
 ## 📄 Certifications
