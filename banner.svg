@@ -45,7 +45,31 @@
       <animate attributeName="y" values="-150;340" dur="4s" repeatCount="indefinite" />
     </text>
 
+    <text x="50" y="-100">
+      <tspan x="20" dy="1.2em">1</tspan>
+      <tspan x="20" dy="1.2em">0</tspan>
+      <tspan x="20" dy="1.2em">0</tspan>
+      <tspan x="20" dy="1.2em">1</tspan>
+      <tspan x="20" dy="1.2em">1</tspan>
+      <tspan x="20" dy="1.2em">0</tspan>
+      <tspan x="20" dy="1.2em">1</tspan>
+      <tspan x="20" dy="1.2em">1</tspan>
+      <animate attributeName="y" values="-150;340" dur="4s" repeatCount="indefinite" />
+    </text>
+
     <text x="80" y="-100">
+      <tspan x="80" dy="1.2em">0</tspan>
+      <tspan x="80" dy="1.2em">1</tspan>
+      <tspan x="80" dy="1.2em">1</tspan>
+      <tspan x="80" dy="1.2em">0</tspan>
+      <tspan x="80" dy="1.2em">0</tspan>
+      <tspan x="80" dy="1.2em">1</tspan>
+      <tspan x="80" dy="1.2em">0</tspan>
+      <tspan x="80" dy="1.2em">0</tspan>
+      <animate attributeName="y" values="-200;340" dur="6s" repeatCount="indefinite" />
+    </text>
+
+    <text x="110" y="-100">
       <tspan x="80" dy="1.2em">0</tspan>
       <tspan x="80" dy="1.2em">1</tspan>
       <tspan x="80" dy="1.2em">1</tspan>
@@ -69,6 +93,18 @@
       <animate attributeName="y" values="-100;340" dur="3s" repeatCount="indefinite" />
     </text>
 
+    <text x="240" y="-100">
+      <tspan x="140" dy="1.2em">1</tspan>
+      <tspan x="140" dy="1.2em">1</tspan>
+      <tspan x="140" dy="1.2em">0</tspan>
+      <tspan x="140" dy="1.2em">1</tspan>
+      <tspan x="140" dy="1.2em">0</tspan>
+      <tspan x="140" dy="1.2em">0</tspan>
+      <tspan x="140" dy="1.2em">1</tspan>
+      <tspan x="140" dy="1.2em">0</tspan>
+      <animate attributeName="y" values="-100;340" dur="3s" repeatCount="indefinite" />
+    </text>
+
     <text x="340" y="-100">
       <tspan x="340" dy="1.2em">1</tspan>
       <tspan x="340" dy="1.2em">0</tspan>
@@ -81,9 +117,24 @@
       <animate attributeName="y" values="-250;340" dur="7s" repeatCount="indefinite" />
     </text>
 
+    <text x="420" y="-100">
+      <tspan x="500" dy="1.2em">0</tspan>
+      <tspan x="500" dy="1.2em">0</tspan>
+      <tspan x="500" dy="1.2em">1</tspan>
+      <tspan x="500" dy="1.2em">0</tspan>
+      <tspan x="500" dy="1.2em">1</tspan>
+      <tspan x="500" dy="1.2em">1</tspan>
+      <tspan x="500" dy="1.2em">0</tspan>
+      <tspan x="500" dy="1.2em">1</tspan>
+      <animate attributeName="y" values="-180;340" dur="5s" repeatCount="indefinite" />
+    </text>
+
     <text x="500" y="-100">
       <tspan x="500" dy="1.2em">0</tspan>
       <tspan x="500" dy="1.2em">0</tspan>
+      <tspan x="500" dy="1.2em">1</tspan>
+      <tspan x="500" dy="1.2em">0</tspan>
+      <tspan x="500" dy="1.2em">1</tspan>
       <tspan x="500" dy="1.2em">1</tspan>
       <tspan x="500" dy="1.2em">0</tspan>
       <tspan x="500" dy="1.2em">1</tspan>
