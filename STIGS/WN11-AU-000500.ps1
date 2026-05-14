@@ -2,6 +2,11 @@
 .SYNOPSIS
     This PowerShell script ensures that the maximum size of the Windows Application event log is at least 32768 KB (32 MB).
 
+.DESCRIPTION
+    The script targets HKLM:\SOFTWARE\Policies\Microsoft\Windows\EventLog\Application to remediate STIG ID WN11-AU-000500. 
+    It ensures the 'MaxSize' DWORD is set to 32768 KB (32 MB), preventing the loss of audit data 
+    due to inadequate log size and ensuring sufficient historical data for security investigations.
+
 .NOTES
     Author          : Michael Kirby
     LinkedIn        : https://www.linkedin.com/in/wmkirby/
@@ -12,6 +17,7 @@
     CVEs            : N/A
     Plugin IDs      : N/A
     STIG-ID         : WN11-AU-000500
+    Severity: Medium (CAT II)
     Documentation   : https://stigaview.com/products/win11/v2r7/WN11-AU-000500/
 
 .TESTED ON
