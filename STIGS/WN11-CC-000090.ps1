@@ -18,6 +18,7 @@
     CVEs            : N/A
     Plugin IDs      : N/A
     STIG-ID         : WN11-CC-000090
+    Severity        : Medium (CAT II)
     Documentation   : https://stigaview.com/products/win11/v2r7/WN11-CC-000090/
 
 .TESTED ON
