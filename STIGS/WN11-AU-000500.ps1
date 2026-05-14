@@ -17,7 +17,7 @@
     CVEs            : N/A
     Plugin IDs      : N/A
     STIG-ID         : WN11-AU-000500
-    Severity: Medium (CAT II)
+    Severity        : Medium (CAT II)
     Documentation   : https://stigaview.com/products/win11/v2r7/WN11-AU-000500/
 
 .TESTED ON
