@@ -30,8 +30,8 @@
 - **[STIG ID: WN11-00-000031](https://github.com/MichaelKirbyIT/MichaelKirbyIT/blob/main/STIGS/WN11-00-000031.ps1)**
 - **[STIG ID: WN11-EP-000310](https://github.com/MichaelKirbyIT/MichaelKirbyIT/blob/main/STIGS/WN11-EP-000310.ps1)**
 - **[STIG ID: WN11-CC-000110](https://github.com/MichaelKirbyIT/MichaelKirbyIT/blob/main/STIGS/WN11-CC-000110.ps1)**
-- **[]()**
-- **[]()**
+- **[STIG ID: WN11-CC-000197](https://github.com/MichaelKirbyIT/MichaelKirbyIT/blob/main/STIGS/WN11-CC-000197.ps1)**
+- **[STIG ID: WN11-CC-000285](https://github.com/MichaelKirbyIT/MichaelKirbyIT/blob/main/STIGS/WN11-CC-000285.ps1)**
 - **[]()**
 - **[]()**
 
