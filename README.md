@@ -1,5 +1,3 @@
-![Michael Kirby Banner](banner.svg)
-
 ![Michael Kirby Banner 2x rain](banner2xrain.svg)
 
 # <a href="https://www.linkedin.com/in/wmkirby/">Michael Kirby's</a> IT and Cybersecurity Project Portfolio 🔐
