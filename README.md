@@ -1,5 +1,7 @@
 ![Michael Kirby Banner](banner.svg)
 
+![Michael Kirby Banner 2x rain](banner2xrain.svg)
+
 # <a href="https://www.linkedin.com/in/wmkirby/">Michael Kirby's</a> IT and Cybersecurity Project Portfolio 🔐
 
 ## 📄 Certifications
@@ -12,14 +14,14 @@
     <img src="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="google" width="150" />
 </p>
 
-## ⚠️ Vulnerability Management Projects
+## ⚠️ Vulnerability Management Projects ⚠️
 - **[Vulnerability Management Program Implementation](https://github.com/MichaelKirbyIT/VulnerabilityManagementProgram)**
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/MichaelKirbyIT/ProgrammaticVulnerabilityRemediations)**
 
-## 🚨 Threat Hunting and Security Operations
+## 🚨 Threat Hunting and Security Operations 🚨
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/MichaelKirbyIT/ThreatHuntingScenarioTor)**
   
-## 👨‍💻 Cybersecurity Projects
+## 🔐 Cybersecurity Projects 🔐
 
   - [Linux hashed password crack with Kali & John the Ripper](https://github.com/MichaelKirbyIT/PasswordCrackingWithKaliLinuxJtR.git)
   - [File Permissions in Linux](https://github.com/MichaelKirbyIT/FilePermissionsInLinux.git)
