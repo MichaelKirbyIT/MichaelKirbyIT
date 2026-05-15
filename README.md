@@ -1,8 +1,10 @@
 ![Michael Kirby Banner 2x rain](banner2xrain.svg)
 
+[![Michael Kirby Banner 2x rain](banner2xrain.svg)](https://www.linkedin.com/in/wmkirby/)
+
 # <a href="https://www.linkedin.com/in/wmkirby/">Michael Kirby's</a> IT and Cybersecurity Project Portfolio 🔐
 
-## 📄 Certifications
+## 📜 Certifications 📜
 
 <p>
     <img src="https://images.credly.com/size/340x340/images/ba1b8072-8ebe-432c-88e5-05bc809c624a/CompTIA_CSAP.png" alt="CSAP" width="150" />
@@ -28,7 +30,7 @@
   - [Verify checksums using Files and CLI](https://github.com/MichaelKirbyIT/VerifyChecksumsWithCmdSha256.git)
   - [Disk Sanitization (zeroing) using Linux dd command](https://github.com/MichaelKirbyIT/WipingDisksUsingddCommand.git)
 
-<h2>🖥️ IT Projects</h2>
+<h2>🖥️ IT Projects</h2> 🖥️
 
   - [Using PuTTy on Windows to execute commands on a Linux System](https://github.com/MichaelKirbyIT/CreateALinuxUserAndGroupWithPuttyOnWindows.git)
   - [Creating a Bash shell script and changing permissions to executable](https://github.com/MichaelKirbyIT/CreatingLinuxShellScriptAndSetAsExecutable.git)
@@ -36,7 +38,7 @@
   - [CISCO Packet Tracer - Logical and Physical Mode Exploration](https://github.com/MichaelKirbyIT/CiscoPacketTracerLogicalAndPhysicalMode.git)
   - [Disk Sanitization & Reformat](https://github.com/MichaelKirbyIT/DiskSanitizationProject.git)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect with me:</h2> 🤳
 
 [<img align="left" alt="MichaelKirby | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="MichaelKirby | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
