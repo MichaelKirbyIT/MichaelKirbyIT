@@ -15,7 +15,7 @@
     Last Modified   : 2026-05-14
     Version         : 1.0
     STIG-ID         : WN11-00-000031
-    Severity        : Medium (CAT I)
+    Severity        : High (CAT I)
     Documentation   : https://stigaview.com/products/win11/v2r7/WN11-00-000031/
 #>
 
