@@ -1,7 +1,5 @@
 [![Michael Kirby Banner 2x rain](banner2xrain.svg)](https://www.linkedin.com/in/wmkirby/)
 
-# IT and Cybersecurity Project Portfolio 🔐
-
 ## 📜 Certifications 📜
 
 <p>
