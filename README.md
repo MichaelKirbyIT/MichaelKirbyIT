@@ -22,7 +22,6 @@
 - **[Sudden Network Slowdowns]()**
 - **[Suspected Data Exfiltration from PIPd Employee]()**
 - **[New Zero-Day Announced on News (PwnCrypt ransomware)]()**
-- 
 
 ## 🎯 STIG Implementations 🎯
 - **[STIG ID: WN11-AU-000500]()**
