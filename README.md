@@ -44,7 +44,7 @@
   - [Verify checksums using Files and CLI](https://github.com/MichaelKirbyIT/VerifyChecksumsWithCmdSha256.git)
   - [Disk Sanitization (zeroing) using Linux dd command](https://github.com/MichaelKirbyIT/WipingDisksUsingddCommand.git)
 
-<h2>🖥️ IT Projects</h2> 🖥️
+## 🖥️ IT Projects 🖥️
 
   - [Using PuTTy on Windows to execute commands on a Linux System](https://github.com/MichaelKirbyIT/CreateALinuxUserAndGroupWithPuttyOnWindows.git)
   - [Creating a Bash shell script and changing permissions to executable](https://github.com/MichaelKirbyIT/CreatingLinuxShellScriptAndSetAsExecutable.git)
@@ -52,7 +52,7 @@
   - [CISCO Packet Tracer - Logical and Physical Mode Exploration](https://github.com/MichaelKirbyIT/CiscoPacketTracerLogicalAndPhysicalMode.git)
   - [Disk Sanitization & Reformat](https://github.com/MichaelKirbyIT/DiskSanitizationProject.git)
 
-<h2> 🤳 Connect with me:</h2> 🤳
+## 🤳 Connect with me:  🤳
 
 [<img align="left" alt="MichaelKirby | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="MichaelKirby | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
