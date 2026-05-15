@@ -10,16 +10,19 @@
     <img src="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="google" width="150" />
 </p>
 
+
+## ⚠️ Vulnerability Management Projects ⚠️
+- **[Vulnerability Management Program Implementation](https://github.com/MichaelKirbyIT/VulnerabilityManagementProgram)**
+- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/MichaelKirbyIT/ProgrammaticVulnerabilityRemediations)**
+
+
 ## 🚨 Threat Hunting and Security Operations 🚨
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/MichaelKirbyIT/ThreatHuntingScenarioTor)**
 - **[Devices Accidentally Exposed to the Internet]()**
 - **[Sudden Network Slowdowns]()**
 - **[Suspected Data Exfiltration from PIPd Employee]()**
 - **[New Zero-Day Announced on News (PwnCrypt ransomware)]()**
-
-## ⚠️ Vulnerability Management Projects ⚠️
-- **[Vulnerability Management Program Implementation](https://github.com/MichaelKirbyIT/VulnerabilityManagementProgram)**
-- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/MichaelKirbyIT/ProgrammaticVulnerabilityRemediations)**
+- 
 
 ## 🎯 STIG Implementations 🎯
 - **[STIG ID: WN11-AU-000500]()**
