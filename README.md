@@ -24,12 +24,12 @@
 - **[New Zero-Day Announced on News (PwnCrypt ransomware)]()**
 
 ## 🎯 STIG Implementations 🎯
-- **[STIG ID: WN11-AU-000500]()**
-- **[STIG ID: WN11-CC-000090]()**
-- **[STIG ID: WN11-CC-000315]()**
-- **[STIG ID: WN11-00-000031]()**
-- **[STIG ID: WN11-EP-000310]()**
-- **[]()**
+- **[STIG ID: WN11-AU-000500](https://github.com/MichaelKirbyIT/MichaelKirbyIT/blob/main/STIGS/WN11-AU-000500.ps1)**
+- **[STIG ID: WN11-CC-000090](https://github.com/MichaelKirbyIT/MichaelKirbyIT/blob/main/STIGS/WN11-CC-000090.ps1)**
+- **[STIG ID: WN11-CC-000315](https://github.com/MichaelKirbyIT/MichaelKirbyIT/blob/main/STIGS/WN11-CC-000315.ps1)**
+- **[STIG ID: WN11-00-000031](https://github.com/MichaelKirbyIT/MichaelKirbyIT/blob/main/STIGS/WN11-00-000031.ps1)**
+- **[STIG ID: WN11-EP-000310](https://github.com/MichaelKirbyIT/MichaelKirbyIT/blob/main/STIGS/WN11-EP-000310.ps1)**
+- **[STIG ID: WN11-CC-000110](https://github.com/MichaelKirbyIT/MichaelKirbyIT/blob/main/STIGS/WN11-CC-000110.ps1)**
 - **[]()**
 - **[]()**
 - **[]()**
