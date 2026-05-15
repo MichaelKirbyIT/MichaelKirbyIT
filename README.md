@@ -17,7 +17,7 @@
 - **[Vulnerability Management Program Implementation](https://github.com/MichaelKirbyIT/VulnerabilityManagementProgram)**
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/MichaelKirbyIT/ProgrammaticVulnerabilityRemediations)**
 
-## 📈 STIG Implementations 📈
+## 🎯 STIG Implementations 🎯
 - **[STIG ID: WN11-AU-000500]()**
 - **[STIG ID: WN11-CC-000090]()**
 - **[STIG ID: WN11-CC-000315)]()**
