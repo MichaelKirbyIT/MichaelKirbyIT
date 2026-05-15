@@ -20,7 +20,7 @@
 ## 🎯 STIG Implementations 🎯
 - **[STIG ID: WN11-AU-000500]()**
 - **[STIG ID: WN11-CC-000090]()**
-- **[STIG ID: WN11-CC-000315)]()**
+- **[STIG ID: WN11-CC-000315]()**
 - **[STIG ID: WN11-00-000031]()**
 - **[STIG ID: WN11-EP-000310]()**
 - **[]()**
