@@ -12,6 +12,10 @@
 
 ## 🚨 Threat Hunting and Security Operations 🚨
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/MichaelKirbyIT/ThreatHuntingScenarioTor)**
+- **[Devices Accidentally Exposed to the Internet]()**
+- **[Sudden Network Slowdowns]()**
+- **[Suspected Data Exfiltration from PIPd Employee]()**
+- **[New Zero-Day Announced on News (PwnCrypt ransomware)]()**
 
 ## ⚠️ Vulnerability Management Projects ⚠️
 - **[Vulnerability Management Program Implementation](https://github.com/MichaelKirbyIT/VulnerabilityManagementProgram)**
