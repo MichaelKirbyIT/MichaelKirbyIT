@@ -20,8 +20,8 @@
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/MichaelKirbyIT/ThreatHuntingScenarioTor)**
 - **[Devices Accidentally Exposed to the Internet](https://github.com/MichaelKirbyIT/Devices-Accidentally-Exposed-to-the-Internet/blob/main/README.md)**
 - **[Sudden Network Slowdowns]()**
-- **[Suspected Data Exfiltration from PIPd Employee]()**
-- **[New Zero-Day Announced on News (PwnCrypt ransomware)]()**
+- **[Suspected Data Exfiltration from PIPd Employee](https://github.com/MichaelKirbyIT/Suspected-Data-Exfiltration-from-PIPd-Employee)**
+- **[New Zero-Day Announced on News (PwnCrypt ransomware)](https://github.com/MichaelKirbyIT/New-Zero-Day-Announced-on-News-PwnCrypt-ransomware-/blob/main/README.md)**
 
 ## 🎯 STIG Implementations 🎯
 - **[STIG ID: WN11-AU-000500](https://github.com/MichaelKirbyIT/MichaelKirbyIT/blob/main/STIGS/WN11-AU-000500.ps1)**
