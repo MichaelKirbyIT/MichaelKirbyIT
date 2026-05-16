@@ -19,8 +19,8 @@
 ## 🚨 Threat Hunting and Security Operations 🚨
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/MichaelKirbyIT/ThreatHuntingScenarioTor)**
 - **[Devices Accidentally Exposed to the Internet](https://github.com/MichaelKirbyIT/Devices-Accidentally-Exposed-to-the-Internet/blob/main/README.md)**
-- **[Sudden Network Slowdowns]()**
-- **[Suspected Data Exfiltration from PIPd Employee](https://github.com/MichaelKirbyIT/Suspected-Data-Exfiltration-from-PIPd-Employee)**
+- **[Sudden Network Slowdowns](https://github.com/MichaelKirbyIT/Sudden-Network-Slowdowns/blob/main/README.md)**
+- **[Suspected Data Exfiltration from PIPd Employee](https://github.com/MichaelKirbyIT/Suspected-Data-Exfiltration-from-PIPd-Employee/blob/main/README.md)**
 - **[New Zero-Day Announced on News (PwnCrypt ransomware)](https://github.com/MichaelKirbyIT/New-Zero-Day-Announced-on-News-PwnCrypt-ransomware-/blob/main/README.md)**
 
 ## 🎯 STIG Implementations 🎯
@@ -32,8 +32,8 @@
 - **[STIG ID: WN11-CC-000110](https://github.com/MichaelKirbyIT/MichaelKirbyIT/blob/main/STIGS/WN11-CC-000110.ps1)**
 - **[STIG ID: WN11-CC-000197](https://github.com/MichaelKirbyIT/MichaelKirbyIT/blob/main/STIGS/WN11-CC-000197.ps1)**
 - **[STIG ID: WN11-CC-000285](https://github.com/MichaelKirbyIT/MichaelKirbyIT/blob/main/STIGS/WN11-CC-000285.ps1)**
-- **[]()**
-- **[]()**
+- **[STIG ID: WN11-AU-000083](https://github.com/MichaelKirbyIT/MichaelKirbyIT/blob/main/STIGS/WN11-AU-000083.ps1)**
+- **[STIG ID: WN11-CC-000345](https://github.com/MichaelKirbyIT/MichaelKirbyIT/blob/main/STIGS/WN11-CC-000345.ps1)**
 
 ## 🔐 Cybersecurity Projects 🔐
 
