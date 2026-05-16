@@ -18,7 +18,7 @@
 
 ## 🚨 Threat Hunting and Security Operations 🚨
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/MichaelKirbyIT/ThreatHuntingScenarioTor)**
-- **[Devices Accidentally Exposed to the Internet]()**
+- **[Devices Accidentally Exposed to the Internet](https://github.com/MichaelKirbyIT/Devices-Accidentally-Exposed-to-the-Internet/blob/main/README.md)**
 - **[Sudden Network Slowdowns]()**
 - **[Suspected Data Exfiltration from PIPd Employee]()**
 - **[New Zero-Day Announced on News (PwnCrypt ransomware)]()**
