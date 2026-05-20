@@ -17,6 +17,7 @@
 
 
 ## 🚨 Threat Hunting and Security Operations 🚨
+- **[Threat Hunt Report - GHOST IN THE STACK THREAT HUNT)]()**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/MichaelKirbyIT/ThreatHuntingScenarioTor)**
 - **[Devices Accidentally Exposed to the Internet](https://github.com/MichaelKirbyIT/Devices-Accidentally-Exposed-to-the-Internet/blob/main/README.md)**
 - **[Sudden Network Slowdowns](https://github.com/MichaelKirbyIT/Sudden-Network-Slowdowns/blob/main/README.md)**
