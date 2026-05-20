@@ -36,7 +36,7 @@
 - **[STIG ID: WN11-AU-000083](https://github.com/MichaelKirbyIT/MichaelKirbyIT/blob/main/STIGS/WN11-AU-000083.ps1)**
 - **[STIG ID: WN11-CC-000345](https://github.com/MichaelKirbyIT/MichaelKirbyIT/blob/main/STIGS/WN11-CC-000345.ps1)**
 
-## 🔐 Cybersecurity Projects 🔐
+## 🔐 Early Cybersecurity Labs 🔐
 
   - [Linux hashed password crack with Kali & John the Ripper](https://github.com/MichaelKirbyIT/PasswordCrackingWithKaliLinuxJtR.git)
   - [File Permissions in Linux](https://github.com/MichaelKirbyIT/FilePermissionsInLinux.git)
