@@ -18,6 +18,7 @@
 
 ## 🚨 Threat Hunting and Security Operations 🚨
 - **[Threat Hunt Report - GHOST IN THE STACK](https://github.com/MichaelKirbyIT/Threat-Hunt-Report-Ghost-In-The-Stack)**
+- **[Threat Hunt Report - Rocky Clinic OpenEMR](https://github.com/MichaelKirbyIT/Threat-Hunt-Report-Rocky-Clinic-OpenEMR.git)**
 - **[Threat Hunt Report - Signals Before The Noise](https://github.com/MichaelKirbyIT/Threat-Hunt-Report-Signals-Before-The-Noise)**
 - **[Threat Hunt Report - Signals After The Noise](https://github.com/MichaelKirbyIT/Threat-Hunt-Report-Signals-After-The-Noise)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/MichaelKirbyIT/ThreatHuntingScenarioTor)**
