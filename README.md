@@ -17,10 +17,10 @@
 
 
 ## 🚨 Threat Hunting and Security Operations 🚨
-- **[Threat Hunt Report - GHOST IN THE STACK](https://github.com/MichaelKirbyIT/Threat-Hunt-Report-Ghost-In-The-Stack)**
-- **[Threat Hunt Report - Rocky Clinic OpenEMR](https://github.com/MichaelKirbyIT/Threat-Hunt-Report-Rocky-Clinic-OpenEMR.git)**
-- **[Threat Hunt Report - Signals Before The Noise](https://github.com/MichaelKirbyIT/Threat-Hunt-Report-Signals-Before-The-Noise)**
-- **[Threat Hunt Report - Signals After The Noise](https://github.com/MichaelKirbyIT/Threat-Hunt-Report-Signals-After-The-Noise)**
+- **[Threat Hunt Report - GHOST IN THE STACK](https://github.com/MichaelKirbyIT/Threat-Hunt-Report-Ghost-In-The-Stack-Analysis)**
+- **[Threat Hunt Report - Rocky Clinic OpenEMR](https://github.com/MichaelKirbyIT/Threat-Hunt-Report-Rocky-Clinic-OpenEMR-Analysis)**
+- **[Threat Hunt Report - Signals Before The Noise](https://github.com/MichaelKirbyIT/Threat-Hunt-Report-Signals-Before-The-Noise-Analysis)**
+- **[Threat Hunt Report - Signals After The Noise](https://github.com/MichaelKirbyIT/Threat-Hunt-Report-Signals-After-The-Noise-Analysis)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/MichaelKirbyIT/ThreatHuntingScenarioTor)**
 - **[Devices Accidentally Exposed to the Internet](https://github.com/MichaelKirbyIT/Devices-Accidentally-Exposed-to-the-Internet/blob/main/README.md)**
 - **[Sudden Network Slowdowns](https://github.com/MichaelKirbyIT/Sudden-Network-Slowdowns/blob/main/README.md)**
