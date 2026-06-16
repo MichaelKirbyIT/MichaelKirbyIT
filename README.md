@@ -17,10 +17,14 @@
 
 
 ## 🚨 Threat Hunting and Security Operations 🚨
-- **[Threat Hunt Report - GHOST IN THE STACK](https://github.com/MichaelKirbyIT/Threat-Hunt-Report-Ghost-In-The-Stack-Analysis)**
-- **[Threat Hunt Report - Rocky Clinic OpenEMR](https://github.com/MichaelKirbyIT/Threat-Hunt-Report-Rocky-Clinic-OpenEMR-Analysis)**
-- **[Threat Hunt Report - Signals Before The Noise](https://github.com/MichaelKirbyIT/Threat-Hunt-Report-Signals-Before-The-Noise-Analysis)**
-- **[Threat Hunt Report - Signals After The Noise](https://github.com/MichaelKirbyIT/Threat-Hunt-Report-Signals-After-The-Noise-Analysis)**
+- **[Threat Hunt Technical Report - GHOST IN THE STACK](https://github.com/MichaelKirbyIT/Threat-Hunt-Ghost-In-The-Stack-Technical-Report)**
+- **[Threat Hunt Narrative Report - GHOST IN THE STACK](https://github.com/MichaelKirbyIT/Threat-Hunt-Ghost-In-The-Stack-Narrative-Report)**
+- **[Threat Hunt Technical Report - Rocky Clinic OpenEMR](https://github.com/MichaelKirbyIT/Threat-Hunt-Rocky-Clinic-OpenEMR-Technical-Report)**
+- **[Threat Hunt Narrative Report - Rocky Clinic OpenEMR](https://github.com/MichaelKirbyIT/Threat-Hunt-Rocky-Clinic-OpenEMR-Narrative-Report)**
+- **[Threat Hunt Technical Report - Signals Before The Noise](https://github.com/MichaelKirbyIT/Threat-Hunt-Signals-Before-The-Noise-Technical-Report)**
+- **[Threat Hunt Narrative Report - Signals Before The Noise](https://github.com/MichaelKirbyIT/Threat-Hunt-Signals-Before-The-Noise-Narrative-Report)**
+- **[Threat Hunt Technical Report - Signals After The Noise](https://github.com/MichaelKirbyIT/Threat-Hunt-Signals-After-The-Noise-Technical-Report)**
+- **[Threat Hunt Narrative Report - Signals After The Noise](https://github.com/MichaelKirbyIT/Threat-Hunt-Signals-After-The-Noise-Narrative-Report)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/MichaelKirbyIT/ThreatHuntingScenarioTor)**
 - **[Devices Accidentally Exposed to the Internet](https://github.com/MichaelKirbyIT/Devices-Accidentally-Exposed-to-the-Internet/blob/main/README.md)**
 - **[Sudden Network Slowdowns](https://github.com/MichaelKirbyIT/Sudden-Network-Slowdowns/blob/main/README.md)**
