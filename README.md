@@ -10,6 +10,8 @@
     <img src="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="google" width="150" />
 </p>
 
+## 🤖 Agentic AI Security Tools 🤖
+- **[Phalanx — Agentic Detection & Response (Claude API, Azure Sentinel, KQL, & MDE)](https://github.com/MichaelKirbyIT/phalanx-detection-response)**
 
 ## ⚠️ Vulnerability Management Projects ⚠️
 - **[Vulnerability Management Program Implementation](https://github.com/MichaelKirbyIT/VulnerabilityManagementProgram)**
